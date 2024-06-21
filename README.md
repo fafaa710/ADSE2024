@@ -11,6 +11,8 @@ https://docs.google.com/spreadsheets/d/1OzK58HUM6hKmHI6JpyF6W9Rt7roWxvLD/edit?us
 
 ![Exercise 2-5_Fadiah Khairina_22_page-0001](https://github.com/fafaa710/ADSE2024/assets/91203212/ea28b5d9-11cc-4ee3-8dbd-1d05e457d56e)
 
-![Covid 2](https://github.com/fafaa710/Data-Analyst-Skolla-intern/assets/91203212/8185e21a-7dde-448e-abf1-2c3be198a0dd)
+![Exercise 2-5_Fadiah Khairina_22_page-0002](https://github.com/fafaa710/ADSE2024/assets/91203212/92d2739b-f53f-452e-9987-9215dc186441)
+
+
 
 
