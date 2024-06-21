@@ -5,7 +5,7 @@ This dashboard is designed to offer a comprehensive understanding of the COVID-1
 https://docs.google.com/spreadsheets/d/1OzK58HUM6hKmHI6JpyF6W9Rt7roWxvLD/edit?usp=sharing&ouid=106170662611368391924&rtpof=true&sd=true
 
 ## Technologies Used
-- SAC Analytics Cloud
+- SAP Analytics Cloud
 
 ## Dashboard
 
